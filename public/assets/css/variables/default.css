@@ -1,0 +1,15 @@
+:root {
+    --background-color: #fafafa;
+    --card-background-color: #ffffff;
+    --hover-background-color: #ebf4ff;
+    --active-color: #1b84ff;
+    --icon-color: #99a1b7;
+    --text-color: #4d5675;
+    --text-highlight-color: #0a1017;
+    --shadow: #4b567515;
+    --line-color: #dbdfeb;
+    --white-color: #ffffff;
+    --border-color: #dbdfeb;
+    --btn-hover-color: #ebf4ff;
+    --input-background: #ffffff;
+}

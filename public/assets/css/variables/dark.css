@@ -1,0 +1,15 @@
+.dark:root{
+--background-color:#2d2d30;
+--card-background-color:#19191c;
+--hover-background-color:#213041;
+--active-color:#1b84ff;
+--icon-color:#8aa2bd;
+--text-color:#8aa2bd;
+--text-highlight-color:#d9e0e9;
+--shadow:#687481;
+--line-color:#213041;
+--white-color:#ffffff;
+--border-color:#2d2d30;
+--btn-hover-color:#213041;
+--input-background:#2d2d30;
+}
